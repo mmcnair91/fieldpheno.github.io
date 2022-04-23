@@ -1,15 +1,16 @@
 ---
 name: Trevor Rife
-image: images/team/twrife.jpg
+image: images/team/trevor-rife.jpg
+description: Principal Investigator
 role: pi
 aliases:
   - T. Rife
   - T.W. Rife
   - Trevor Rife
 links:
-  orcid: 0000-0002-5974-6523
-  home-page: https://fieldpheno.org
   email: twrife@clemson.edu
+  home-page: https://fieldpheno.org
+  orcid: 0000-0002-5974-6523
   google-scholar: m4sw8RQAAAAJ
   github: trife
   twitter: TrevorRife
