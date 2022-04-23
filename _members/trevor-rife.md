@@ -1,7 +1,6 @@
 ---
 name: Trevor Rife
 image: images/team/trevor-rife.jpg
-description: Principal Investigator
 role: pi
 aliases:
   - T. Rife

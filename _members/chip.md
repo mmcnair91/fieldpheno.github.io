@@ -1,7 +1,6 @@
 ---
 name: Chip
 image: images/team/chip.jpg
-description: Woof
 role: mascot
 ---
 

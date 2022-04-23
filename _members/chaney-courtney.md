@@ -1,7 +1,6 @@
 ---
 name: Chaney Courtney
 image: images/team/chaney-courtney.jpg
-description: Computational Scientist
 role: programmer
 aliases:
   - C. Courtney
