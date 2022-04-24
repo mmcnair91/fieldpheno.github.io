@@ -32,6 +32,21 @@
   tags:
   - genotyping
   - review
+  - gbs
+- id: doi:10.1186/s12864-015-1404-9
+  title: 'Spiked GBS: a unified, open platform for single marker genotyping and whole-genome
+    profiling'
+  authors:
+  - Trevor W Rife
+  - Shuangye Wu
+  - Robert L Bowden
+  - Jesse A Poland
+  publisher: BMC Genomics
+  date: '2015-03-28'
+  link: https://doi.org/f7bqgp
+  tags:
+  - genotyping
+  - gbs
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
