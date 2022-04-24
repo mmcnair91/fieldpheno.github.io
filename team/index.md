@@ -37,7 +37,13 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: mascot"
+  filters="role: mascot-d"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: mascot-c"
 %}
 {:.center}
 
