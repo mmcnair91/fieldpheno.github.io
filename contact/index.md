@@ -7,9 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Plant and Environmental Sciences](https://www.clemson.edu/cafls/plant-environmental-sciences/index.html) at [Clemson University](https://www.clemson.edu/).
-
-We are located at the [Pee Dee Research and Education Center](https://www.clemson.edu/cafls/research/peedee/) in Florence, SC.
+Our lab is part of the [Department of Plant and Environmental Sciences](https://www.clemson.edu/cafls/plant-environmental-sciences/index.html) at [Clemson University](https://www.clemson.edu/). We are headquartered at the [Pee Dee Research and Education Center](https://www.clemson.edu/cafls/research/peedee/) in Florence, SC.
 
 {%
   include link.html

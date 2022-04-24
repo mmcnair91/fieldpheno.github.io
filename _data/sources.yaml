@@ -5,7 +5,7 @@
     - review
     - gbs
 
-- id: doi:10.1186/s12864-015-1404-9
+- id: doi:10.2135/cropsci2013.08.0579
   image: https://raw.githubusercontent.com/PhenoApps/Field-Book/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
   repo: PhenoApps/Field-Book
   extra-links:
@@ -35,7 +35,7 @@
     - plant breeding
 
 - id: doi:10.2135/cropsci2018.01.0073
-  image: images/publications/rife2019.tiff
+  image: images/publications/rife2019.png
   tags:
     - wheat
     - plant breeding
@@ -47,7 +47,7 @@
     - pre-harvest sprouting
 
 - id: doi:10.1093/bioinformatics/btz190
-  image: https://brapi.org/images/brapi-logo.svg
+  image: images/publications/selby2019.png
   repo: plantbreeding/BrAPI
   extra-links:
     - type: source
@@ -60,10 +60,9 @@
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs00122-020-03712-y/MediaObjects/122_2020_3712_Fig4_HTML.png?as=webp
   tags:
     - wheat
-    - plant breeding
 
 - id: doi:10.1002/ppj2.20024
-  image: https://acsess.onlinelibrary.wiley.com/cms/asset/cdfeb5d0-d6df-4f6d-99bc-110b07beed8f/ppj220024-fig-0001-m.jpg
+  image: https://raw.githubusercontent.com/PhenoApps/Prospector/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
   repo: PhenoApps/Prospector
   extra-links:
     - type: source
@@ -74,7 +73,7 @@
     - NIR
 
 - id: doi:10.1002/csc2.20702
-  image: https://acsess.onlinelibrary.wiley.com/cms/asset/f3ec8ba9-e6e7-4400-91b2-a954853827a0/csc220702-fig-0001-m.jpg
+  image: https://raw.githubusercontent.com/PhenoApps/Intercross/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
   repo: PhenoApps/Intercross
   extra-links:
     - type: source

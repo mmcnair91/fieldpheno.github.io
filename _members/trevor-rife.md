@@ -6,6 +6,7 @@ aliases:
   - T. Rife
   - T.W. Rife
   - Trevor Rife
+  - Trevor W. Rife
 links:
   email: twrife@clemson.edu
   home-page: https://fieldpheno.org
