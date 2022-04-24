@@ -1,0 +1,261 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
+# See https://github.com/greenelab/lab-website-template/wiki/Citations
+
+- id: doi:10.3835/plantgenome2012.05.0005
+  title: "Genotyping\u2010by\u2010Sequencing for Plant Breeding and Genetics"
+  authors:
+  - Jesse A. Poland
+  - Trevor W. Rife
+  publisher: The Plant Genome
+  date: '2012-11-01'
+  link: https://doi.org/gfzn68
+  image: https://acsess.onlinelibrary.wiley.com/cms/asset/1b72a9c4-f075-4290-a68c-cf4d7aa187d6/tpg2plantgenome2012050005-fig-0003-m.jpg
+  tags:
+  - genotyping
+  - review
+  - gbs
+- id: doi:10.2135/cropsci2013.08.0579
+  title: "Field Book: An Open\u2010Source Application for Field Data Collection on\
+    \ Android"
+  authors:
+  - Trevor W. Rife
+  - Jesse A. Poland
+  publisher: Crop Science
+  date: '2014-07-01'
+  link: https://doi.org/f584rr
+  image: https://raw.githubusercontent.com/PhenoApps/Field-Book/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+  repo: PhenoApps/Field-Book
+  extra-links:
+  - type: source
+    link: https://github.com/PhenoApps/Field-Book
+    text: Source
+  tags:
+  - phenoapps
+  - plant breeding
+- id: doi:10.1186/s12864-015-1404-9
+  title: 'Spiked GBS: a unified, open platform for single marker genotyping and whole-genome
+    profiling'
+  authors:
+  - Trevor W Rife
+  - Shuangye Wu
+  - Robert L Bowden
+  - Jesse A Poland
+  publisher: BMC Genomics
+  date: '2015-03-28'
+  link: https://doi.org/f7bqgp
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12864-015-1404-9/MediaObjects/12864_2015_1404_Fig3_HTML.gif?as=webp
+  tags:
+  - genotyping
+  - gbs
+- id: doi:10.1111/gcb.13163
+  title: "Quantifying variety\u2010specific heat resistance and the potential for\
+    \ adaptation to climate change"
+  authors:
+  - Jesse Tack
+  - Andrew Barkley
+  - Trevor W. Rife
+  - Jesse A. Poland
+  - Lawton Lanier Nalley
+  publisher: Global Change Biology
+  date: '2016-05-10'
+  link: https://doi.org/f8wn93
+  image: images/publications/tack2015.jpg
+  tags:
+  - climate change
+  - wheat
+- id: doi:10.3835/plantgenome2018.01.0004
+  title: Genomic Analysis and Prediction within a US Public Collaborative Winter Wheat
+    Regional Testing Nursery
+  authors:
+  - Trevor W. Rife
+  - Robert A. Graybosch
+  - Jesse A. Poland
+  publisher: The Plant Genome
+  date: '2018-11-01'
+  link: https://doi.org/gfvkk6
+  image: https://acsess.onlinelibrary.wiley.com/cms/asset/f26a7604-f2ef-4266-abc1-bc16a5705af3/tpg2plantgenome2018010004-fig-0001-m.jpg
+  tags:
+  - wheat
+  - plant breeding
+- id: doi:10.2135/cropsci2018.01.0073
+  title: "A Field\u2010Based Analysis of Genetic Improvement for Grain Yield in Winter\
+    \ Wheat Cultivars Developed in the US Central Plains from 1992 to 2014"
+  authors:
+  - Trevor W. Rife
+  - Robert A. Graybosch
+  - Jesse A. Poland
+  publisher: Crop Science
+  date: '2019-05-01'
+  link: https://doi.org/gpzkw4
+  image: images/publications/rife2019.png
+  tags:
+  - wheat
+  - plant breeding
+- id: doi:10.1007/s00122-018-3107-5
+  title: QTL mapping of pre-harvest sprouting resistance in a white wheat cultivar
+    Danby
+  authors:
+  - Mingqin Shao
+  - Guihua Bai
+  - Trevor W. Rife
+  - Jesse Poland
+  - Meng Lin
+  - Shubing Liu
+  - Hui Chen
+  - Tadele Kumssa
+  - Allan Fritz
+  - Harold Trick
+  - Yan Li
+  - Guorong Zhang
+  publisher: Theoretical and Applied Genetics
+  date: '2018-06-02'
+  link: https://doi.org/gdzh3w
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs00122-018-3107-5/MediaObjects/122_2018_3107_Fig1_HTML.png?as=webp
+  tags:
+  - wheat
+  - pre-harvest sprouting
+- id: doi:10.1093/bioinformatics/btz190
+  title: "BrAPI\u2014an application programming interface for plant breeding applications"
+  authors:
+  - Peter Selby
+  - Rafael Abbeloos
+  - Jan Erik Backlund
+  - Martin Basterrechea Salido
+  - Guillaume Bauchet
+  - Omar E Benites-Alfaro
+  - Clay Birkett
+  - Viana C Calaminos
+  - Pierre Carceller
+  - Guillaume Cornut
+  - Bruno Vasques Costa
+  - Jeremy D Edwards
+  - Richard Finkers
+  - Star Yanxin Gao
+  - Mehmood Ghaffar
+  - Philip Glaser
+  - Valentin Guignon
+  - Puthick Hok
+  - Andrzej Kilian
+  - "Patrick K\xF6nig"
+  - Jack Elendil B Lagare
+  - Matthias Lange
+  - "Marie-Ang\xE9lique Laporte"
+  - Pierre Larmande
+  - David S LeBauer
+  - David A Lyon
+  - David S Marshall
+  - Dave Matthews
+  - Iain Milne
+  - Naymesh Mistry
+  - Nicolas Morales
+  - Lukas A Mueller
+  - Pascal Neveu
+  - Evangelia Papoutsoglou
+  - Brian Pearce
+  - Ivan Perez-Masias
+  - Cyril Pommier
+  - "Ricardo H Ram\xEDrez-Gonz\xE1lez"
+  - Abhishek Rathore
+  - Angel Manica Raquel
+  - Sebastian Raubach
+  - Trevor Rife
+  - Kelly Robbins
+  - Mathieu Rouard
+  - Chaitanya Sarma
+  - Uwe Scholz
+  - "Guilhem Semp\xE9r\xE9"
+  - Paul D Shaw
+  - Reinhard Simon
+  - Nahuel Soldevilla
+  - Gordon Stephen
+  - Qi Sun
+  - Clarysabel Tovar
+  - Grzegorz Uszynski
+  - Maikel Verouden
+  - ' '
+  publisher: Bioinformatics
+  date: '2019-03-23'
+  link: https://doi.org/gjgxxr
+  image: images/publications/selby2019.png
+  repo: plantbreeding/BrAPI
+  extra-links:
+  - type: source
+    link: https://github.com/plantbreeding/BrAPI
+    text: Source
+  tags:
+  - api
+- id: doi:10.1007/s00122-020-03712-y
+  title: 'The Aegilops ventricosa 2NvS segment in bread wheat: cytology, genomics
+    and breeding'
+  authors:
+  - Liangliang Gao
+  - Dal-Hoe Koo
+  - Philomin Juliana
+  - Trevor Rife
+  - Daljit Singh
+  - Cristiano Lemes da Silva
+  - Thomas Lux
+  - Kevin M. Dorn
+  - Marshall Clinesmith
+  - Paula Silva
+  - Xu Wang
+  - Manuel Spannagl
+  - Cecile Monat
+  - Bernd Friebe
+  - Burkhard Steuernagel
+  - Gary J. Muehlbauer
+  - Sean Walkowiak
+  - Curtis Pozniak
+  - Ravi Singh
+  - Nils Stein
+  - Martin Mascher
+  - Allan Fritz
+  - Jesse Poland
+  publisher: Theoretical and Applied Genetics
+  date: '2020-11-12'
+  link: https://doi.org/gpzkw5
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs00122-020-03712-y/MediaObjects/122_2020_3712_Fig4_HTML.png?as=webp
+  tags:
+  - wheat
+- id: doi:10.1002/ppj2.20024
+  title: "Prospector: A mobile application for portable, high\u2010throughput near\u2010\
+    infrared spectroscopy phenotyping"
+  authors:
+  - Trevor W. Rife
+  - Chaney Courtney
+  - Jenna Hershberger
+  - Michael Allen Gore
+  - Mitchell Neilsen
+  - Jesse Poland
+  publisher: The Plant Phenome Journal
+  date: '2021-01-01'
+  link: https://doi.org/gn9hhw
+  image: https://raw.githubusercontent.com/PhenoApps/Prospector/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+  repo: PhenoApps/Prospector
+  extra-links:
+  - type: source
+    link: https://github.com/PhenoApps/Prospector
+    text: Source
+  tags:
+  - phenoapps
+  - NIR
+- id: doi:10.1002/csc2.20702
+  title: 'Intercross: An Android app for plant breeding and genetics cross management'
+  authors:
+  - Trevor W. Rife
+  - Chaney Courtney
+  - Guillaume Bauchet
+  - Mitchell Neilsen
+  - Jesse A. Poland
+  publisher: Crop Science
+  date: '2022-02-08'
+  link: https://doi.org/gpzkrw
+  image: https://raw.githubusercontent.com/PhenoApps/Intercross/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+  repo: PhenoApps/Intercross
+  extra-links:
+  - type: source
+    link: https://github.com/PhenoApps/Intercross
+    text: Source
+  tags:
+  - phenoapps
+  - plant breeding
