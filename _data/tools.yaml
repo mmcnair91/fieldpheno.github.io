@@ -1,47 +1,59 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: PhenoApps - mobile apps for phenotyping
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/projects/phenoapps-training-bangladesh.jpg
+  link: https://github.com/PhenoApps
+  description: PhenoApps is a collection of open-source Android apps for data collection that have been designed for plant breeders and geneticsts.
+  repo: PhenoApps
   tags:
-    - resource
+    - tools
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Feed the Future Innovation Lab for Crop Improvement
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/projects/phenoapps-training-nepal.jpg
+  link: https://ilci.cornell.edu/
+  description: Advancing the unique goals of National Agricultural Research Institutes by collaborating with leading experts plant breeding and genetics.
+  tags:
+    - tools
+
+- title: Breeding optimization
+  group: more
+  image: images/projects/barcodes-spike-length.jpg
+  description: Developing novel methods for rapid data collection can substantially reduce the amount of time needed to collect data and make selection decisions.
   tags:
     - resource
 
-- title: Cool Tutorial
+- title: Field Book
   group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: https://raw.githubusercontent.com/PhenoApps/Field-Book/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+  link: https://github.com/PhenoApps/Field-Book
+  description: Field Book is a simple app for taking phenotypic notes. Collecting data in the field has traditionally been a laborious process requiring writing notes by hand followed by transcription. Field Book was created to replace paper field books and to enable increased collection speed with greater data integrity.
+  repo: PhenoApps/Field-Book
   tags:
-    - resource
-    - publication
+    - app
 
-- title: Cool Web App
+- title: Coordinate
   group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: https://raw.githubusercontent.com/PhenoApps/Coordinate/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+  link: https://github.com/PhenoApps/Coordinate
+  description: Coordinate is a highly-customizable data collection app that is based on defining templates and then collecting data in grids created from those templates. Two templates are included by default: Seed Tray and DNA Plate.
+  repo: PhenoApps/Coordinate
   tags:
-    - software
+    - app
 
-- title: Cool Web Server
+- title: Prospector
   group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: https://raw.githubusercontent.com/PhenoApps/Prospector/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+  link: https://github.com/PhenoApps/Prospector
+  description: Prospector is an Android app capable of capturing, storing, visualizing, and exporting data from mobile handheld NIR spectrometers.
+  repo: PhenoApps/Prospector
   tags:
-    - software
+    - app
+
+- title: Intercross
+  group: more
+  image: https://raw.githubusercontent.com/PhenoApps/Intercross/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+  link: https://github.com/PhenoApps/Intercross
+  description: Intercross tracks parental and cross IDs as crosses are made, who makes each cross, and where each cross is made. Cross labels can be printed to Zebra label printers and lists of crosses can be exported to local files.
+  repo: PhenoApps/Intercross
+  tags:
+    - app
