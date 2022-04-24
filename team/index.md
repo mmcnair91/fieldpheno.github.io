@@ -7,11 +7,6 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 {% include section.html %}
 
 {%
@@ -46,24 +41,18 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
+{% include section.html dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We work with a wide range of outstanding groups from around the world, and we're always on the lookout for new and unique perspectives.
+We want to push the frontier of data science and train the next generation of data scientists.
 
-{% include section.html %}
-
-## Join
-
-#### Post Dogtoral Researcher
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
-
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
+{%
+  include link.html
+  icon="fas fa-hands-helping"
+  text="Join the Team"
+  link="join"
+  style="button"
+%}
 {:.center}
 
 {% include section.html %}
@@ -77,27 +66,15 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
+  image1="images/funding/usaid.png"
+  link1="https://www.usaid.gov/"
+  tooltip1="US Agency for International Development"
 
-  image2="images/photo.jpg"
+  image2="images/funding/nifa.svg"
   link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
+  tooltip2="USDA National Institute of Food and Agriculture"
 
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
-
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
-
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
-
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
+  image3="images/funding/nsf.png"
+  link3="https://nsf.gov/"
+  tooltip3="National Science Foundation"
 %}
