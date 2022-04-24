@@ -10,6 +10,12 @@
   tags:
     - genotyping
     - review
+    - gbs
+
+- id: doi:10.1186/s12864-015-1404-9
+  tags:
+    - genotyping
+    - gbs
 
 - id: doi:10.1016/j.csbj.2020.05.017
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
