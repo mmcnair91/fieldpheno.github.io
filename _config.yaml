@@ -6,16 +6,14 @@ description: An easy-to-use, flexible website template for labs, with automatic 
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: 
+baseurl:
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: twrife@clemson.edu
+  google-scholar: m4sw8RQAAAAJ
+  github: FieldPheno
+  twitter: FieldPheno
 
 ### advanced settings
 
