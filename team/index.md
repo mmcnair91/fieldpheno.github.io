@@ -71,11 +71,11 @@ Our work is made possible by funding from several organizations.
 {%
   include gallery.html
 
-  image1="images/funding/usaid.png"
+  image1="images/funding/usaid.svg"
   link1="https://www.usaid.gov/"
   tooltip1="US Agency for International Development"
 
-  image2="images/funding/nifa.svg"
+  image2="images/funding/nifa.jpg"
   link2="https://nasa.gov/"
   tooltip2="USDA National Institute of Food and Agriculture"
 
