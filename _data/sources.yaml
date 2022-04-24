@@ -2,16 +2,11 @@
   image: https://acsess.onlinelibrary.wiley.com/cms/asset/f3ec8ba9-e6e7-4400-91b2-a954853827a0/csc220702-fig-0001-m.jpg
   date: 2022-1-3
   repo: PhenoApps/Intercross
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
   tags:
     - phenoapps
     - plant breeding
 
 - id: doi:10.3835/plantgenome2012.05.0005
-  image: https://acsess.onlinelibrary.wiley.com/cms/asset/f3ec8ba9-e6e7-4400-91b2-a954853827a0/csc220702-fig-0001-m.jpg
-  date: 2012-11-1
   tags:
     - genotyping
     - review
