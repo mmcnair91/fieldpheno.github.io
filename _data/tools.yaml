@@ -3,7 +3,6 @@
   image: images/projects/phenoapps-training-bangladesh.jpg
   link: https://github.com/PhenoApps
   description: PhenoApps is a collection of open-source Android apps for data collection that have been designed for plant breeders and geneticsts.
-  repo: PhenoApps
   tags:
     - tools
 
@@ -35,7 +34,7 @@
   group: more
   image: https://raw.githubusercontent.com/PhenoApps/Coordinate/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
   link: https://github.com/PhenoApps/Coordinate
-  description: Coordinate is a highly-customizable data collection app that is based on defining templates and then collecting data in grids created from those templates. Two templates are included by default: Seed Tray and DNA Plate.
+  description: Coordinate is a highly-customizable data collection app that is based on defining templates and then collecting data in grids created from those templates. Two templates are included by default- Seed Tray and DNA Plate.
   repo: PhenoApps/Coordinate
   tags:
     - app
