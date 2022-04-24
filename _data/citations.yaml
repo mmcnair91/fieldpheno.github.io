@@ -1,6 +1,37 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1002/csc2.20702
+  title: 'Intercross: An Android app for plant breeding and genetics cross management'
+  authors:
+  - Trevor W. Rife
+  - Chaney Courtney
+  - Guillaume Bauchet
+  - Mitchell Neilsen
+  - Jesse A. Poland
+  publisher: Crop Science
+  date: '2022-01-03'
+  link: https://doi.org/gpzkrw
+  image: https://acsess.onlinelibrary.wiley.com/cms/asset/f3ec8ba9-e6e7-4400-91b2-a954853827a0/csc220702-fig-0001-m.jpg
+  repo: PhenoApps/Intercross
+  extra-links:
+  - type: manubot
+    link: https://greenelab.github.io/knowledge-graph-review/
+  tags:
+  - phenoapps
+  - plant breeding
+- id: doi:10.3835/plantgenome2012.05.0005
+  title: "Genotyping\u2010by\u2010Sequencing for Plant Breeding and Genetics"
+  authors:
+  - Jesse A. Poland
+  - Trevor W. Rife
+  publisher: The Plant Genome
+  date: '2012-11-01'
+  link: https://doi.org/gfzn68
+  image: https://acsess.onlinelibrary.wiley.com/cms/asset/f3ec8ba9-e6e7-4400-91b2-a954853827a0/csc220702-fig-0001-m.jpg
+  tags:
+  - genotyping
+  - review
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
