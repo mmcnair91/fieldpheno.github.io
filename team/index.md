@@ -70,7 +70,6 @@ Our work is made possible by funding from several organizations.
 
 {%
   include gallery.html
-  style="square"
 
   image1="images/funding/usaid.svg"
   link1="https://www.usaid.gov/"
