@@ -7,25 +7,15 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [Department of Plant and Environmental Sciences](https://www.clemson.edu/cafls/plant-environmental-sciences/index.html) at [Clemson University](https://www.clemson.edu/). We are headquartered at the [Pee Dee Research and Education Center](https://www.clemson.edu/cafls/research/peedee/) in Florence, SC.
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="twrife@clemson.edu"
   tooltip=""
-  link="scrooge@mcduck.com"
-  style="button"
-%}
-{%
-  include link.html
-  type="phone"
-  icon=""
-  text="(555) 867-5309"
-  tooltip=""
-  link="+1-555-867-5309"
+  link="twrife@clemson.edu"
   style="button"
 %}
 {%
@@ -34,7 +24,7 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.com/maps/place/Pee+Dee+Research+and+Education+Center/@34.2877369,-79.7444489,2444m/data=!3m1!1e3!4m13!1m7!3m6!1s0x88554282e98bc589:0xdb509cbd90678b3d!2s2200+Pocket+Rd,+Darlington,+SC+29532!3b1!8m2!3d34.2833676!4d-79.7507164!3m4!1s0x0:0x47c01bc25f000c20!8m2!3d34.2890417!4d-79.738225?hl=en"
   style="button"
 %}
 {:.center}
@@ -43,23 +33,21 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+Clemson Pee Dee Research & Education Center
+2200 Pocket Rd.
+Florence, SC  29506
 {:.center}
 
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/contact/pdr-office.jpg"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
+  image="images/contact/pdr-overhead.jpg"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}

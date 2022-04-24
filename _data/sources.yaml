@@ -1,33 +1,84 @@
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  date: 2020-6-2
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
+- id: doi:10.3835/plantgenome2012.05.0005
+  image: https://acsess.onlinelibrary.wiley.com/cms/asset/1b72a9c4-f075-4290-a68c-cf4d7aa187d6/tpg2plantgenome2012050005-fig-0003-m.jpg
   tags:
-    - knowledge graphs
+    - genotyping
+    - review
+    - gbs
 
-- id: doi:10.1371/journal.pcbi.1007128
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
+- id: doi:10.2135/cropsci2013.08.0579
+  image: https://raw.githubusercontent.com/PhenoApps/Field-Book/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+  repo: PhenoApps/Field-Book
   extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
     - type: source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+      link: https://github.com/PhenoApps/Field-Book
+      text: Source
+  tags:
+    - phenoapps
+    - plant breeding
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1186/s12864-015-1404-9
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12864-015-1404-9/MediaObjects/12864_2015_1404_Fig3_HTML.gif?as=webp
+  tags:
+    - genotyping
+    - gbs
+
+- id: doi:10.1111/gcb.13163
+  image: images/publications/tack2015.jpg
+  tags:
+    - climate change
+    - wheat
+
+- id: doi:10.3835/plantgenome2018.01.0004
+  image: https://acsess.onlinelibrary.wiley.com/cms/asset/f26a7604-f2ef-4266-abc1-bc16a5705af3/tpg2plantgenome2018010004-fig-0001-m.jpg
+  tags:
+    - wheat
+    - plant breeding
+
+- id: doi:10.2135/cropsci2018.01.0073
+  image: images/publications/rife2019.png
+  tags:
+    - wheat
+    - plant breeding
+
+- id: doi:10.1007/s00122-018-3107-5
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs00122-018-3107-5/MediaObjects/122_2018_3107_Fig1_HTML.png?as=webp
+  tags:
+    - wheat
+    - pre-harvest sprouting
+
+- id: doi:10.1093/bioinformatics/btz190
+  image: images/publications/selby2019.png
+  repo: plantbreeding/BrAPI
   extra-links:
-    - type: preprint
-      link: https://doi.org/10.7287/peerj.preprints.3100v1
-    - type: manubot
-      link: https://greenelab.github.io/scihub-manuscript/
     - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Manuscript source
+      link: https://github.com/plantbreeding/BrAPI
+      text: Source
+  tags:
+    - api
+
+- id: doi:10.1007/s00122-020-03712-y
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs00122-020-03712-y/MediaObjects/122_2020_3712_Fig4_HTML.png?as=webp
+  tags:
+    - wheat
+
+- id: doi:10.1002/ppj2.20024
+  image: https://raw.githubusercontent.com/PhenoApps/Prospector/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+  repo: PhenoApps/Prospector
+  extra-links:
     - type: source
-      link: https://github.com/greenelab/scihub
-      text: Analyses source
+      link: https://github.com/PhenoApps/Prospector
+      text: Source
+  tags:
+    - phenoapps
+    - NIR
+
+- id: doi:10.1002/csc2.20702
+  image: https://raw.githubusercontent.com/PhenoApps/Intercross/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+  repo: PhenoApps/Intercross
+  extra-links:
+    - type: source
+      link: https://github.com/PhenoApps/Intercross
+      text: Source
+  tags:
+    - phenoapps
+    - plant breeding
