@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-tools"></i>Projects
 
-The Rife Lab focuses on developing, validating, and utilizing new tools, technologies, and methods for plant breeding and genetics research.
+The vast availability of genomic data over the last decade has created a new bottleneck for plant breeding programs. Rapidly collecting, analyzing, and utilizing phenotypic and phenomic data within a single breeding season is paramount to crop improvement. The Rife Lab focuses on developing efficient tools, technologies, and methods to optimize the plant breeding and genetics research.
 
 {% include search-info.html %}
 

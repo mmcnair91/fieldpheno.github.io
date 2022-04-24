@@ -17,7 +17,7 @@
 - title: Breeding optimization
   group: more
   image: images/projects/barcodes-spike-length.jpg
-  description: Developing novel methods for rapid data collection can substantially reduce the amount of time needed to collect data and make selection decisions.
+  description: We're developing novel methods to simplify and speed up data collection in plant breeding. Improved data collection will improve breeding selection decisions.
   tags:
     - resource
 
@@ -25,16 +25,17 @@
   group: more
   image: https://raw.githubusercontent.com/PhenoApps/Field-Book/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
   link: https://github.com/PhenoApps/Field-Book
-  description: Field Book is a simple app for taking phenotypic notes. Collecting data in the field has traditionally been a laborious process requiring writing notes by hand followed by transcription. Field Book was created to replace paper field books and to enable increased collection speed with greater data integrity.
+  description: Field Book is a simple Android app for collecting phenotypic data, thereby facilitating increased collection speed with greater data integrity.
   repo: PhenoApps/Field-Book
   tags:
     - app
+    - brapi
 
 - title: Coordinate
   group: more
   image: https://raw.githubusercontent.com/PhenoApps/Coordinate/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
   link: https://github.com/PhenoApps/Coordinate
-  description: Coordinate is a highly-customizable data collection app that is based on defining templates and then collecting data in grids created from those templates. Two templates are included by default- Seed Tray and DNA Plate.
+  description: Coordinate is a customizable Android app that allows gridded data to be collected and organized. Two templates are included by default- Seed Tray and DNA Plate.
   repo: PhenoApps/Coordinate
   tags:
     - app
@@ -52,7 +53,7 @@
   group: more
   image: https://raw.githubusercontent.com/PhenoApps/Intercross/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
   link: https://github.com/PhenoApps/Intercross
-  description: Intercross tracks parental and cross IDs as crosses are made, who makes each cross, and where each cross is made. Cross labels can be printed to Zebra label printers and lists of crosses can be exported to local files.
+  description: Intercross is an Android app that tracks parental and cross IDs as crosses are made including who makes each cross and where each cross is made. Cross labels can be printed to Zebra label printers.
   repo: PhenoApps/Intercross
   tags:
     - app
