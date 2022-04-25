@@ -1,6 +1,6 @@
-- title: PhenoApps - mobile apps for phenotyping
+- title: PhenoApps
   group: featured
-  image: images/projects/phenoapps-training-bangladesh.jpg
+  image: images/projects/phenoapps-icon.png
   link: https://github.com/PhenoApps
   description: PhenoApps is a collection of open-source Android apps for data collection that have been designed for plant breeders and geneticsts.
   tags:
@@ -16,14 +16,15 @@
 
 - title: Breeding optimization
   group: more
+  link: https://github.com/FieldPheno/Resources
   image: images/projects/barcodes-spike-length.jpg
-  description: We're developing novel methods to simplify and speed up data collection in plant breeding. Improved data collection will improve breeding selection decisions.
+  description: We work to develop novel methods to simplify and speed up data collection in plant breeding. Improved data collection will improve breeding selection decisions.
   tags:
     - resource
 
 - title: Field Book
   group: more
-  image: https://raw.githubusercontent.com/PhenoApps/Field-Book/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+  image: images/projects/field-book-icon.png
   link: https://github.com/PhenoApps/Field-Book
   description: Field Book is a simple Android app for collecting phenotypic data, thereby facilitating increased collection speed with greater data integrity.
   repo: PhenoApps/Field-Book
@@ -33,7 +34,7 @@
 
 - title: Coordinate
   group: more
-  image: https://raw.githubusercontent.com/PhenoApps/Coordinate/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+  image: images/projects/coordinate-icon.png
   link: https://github.com/PhenoApps/Coordinate
   description: Coordinate is a customizable Android app that allows gridded data to be collected and organized. Two templates are included by default- Seed Tray and DNA Plate.
   repo: PhenoApps/Coordinate
@@ -42,7 +43,7 @@
 
 - title: Prospector
   group: more
-  image: https://raw.githubusercontent.com/PhenoApps/Prospector/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+  image: images/projects/prospector-icon.png
   link: https://github.com/PhenoApps/Prospector
   description: Prospector is an Android app capable of capturing, storing, visualizing, and exporting data from mobile handheld NIR spectrometers.
   repo: PhenoApps/Prospector
@@ -51,7 +52,7 @@
 
 - title: Intercross
   group: more
-  image: https://raw.githubusercontent.com/PhenoApps/Intercross/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+  image: images/projects/intercross-icon.png
   link: https://github.com/PhenoApps/Intercross
   description: Intercross is an Android app that tracks parental and cross IDs as crosses are made including who makes each cross and where each cross is made. Cross labels can be printed to Zebra label printers.
   repo: PhenoApps/Intercross

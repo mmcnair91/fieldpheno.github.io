@@ -1,11 +1,11 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: FieldPheno Lab
+description: Research lab at Clemson University developing new tools for plant breeding.
 logo: images/logo.svg
-header: images/background.jpg
-footer: images/background.jpg
+header: images/backgrounds/background-header.jpg
+footer: images/backgrounds/background-footer.jpg
 baseurl:
 
 # site social media and other links
