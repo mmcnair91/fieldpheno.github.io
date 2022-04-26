@@ -46,7 +46,7 @@ We design, develop, and validate tools that are used by thousands of breeders ac
 
 {%
   include feature.html
-  image="images/uav-wheat.jpg"
+  image="images/home/uav-wheat.jpg"
   link="projects"
   title="Our Projects"
   flip=true
