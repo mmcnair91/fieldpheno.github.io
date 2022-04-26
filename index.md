@@ -2,44 +2,20 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Practical phenomics for plant scientists
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
-
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
-{:.center}
-
-{% include section.html full=true %}
-
-{% include banner.html image="images/banner.jpg" %}
+The Rife Lab is a team of researchers at [Clemson University](https://www.clemson.edu/) focused on developing the next generation of tools to effectively collect and manage phenotypic and phenomic data for plant breeding and genetics research. We work with scientists to design novel solutions that allow breeders to efficiently develop the improved crops necessary to feed a growing global population.
 
 {% include section.html %}
 
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We strive to share our research with the broader scientific community, prioritizing transparency, rigor, and reproducibility.
 
 {%
   include link.html
-  link="research"
+  link="publications"
   text="See what we've published"
   icon="fas fa-arrow-right"
   flip=true
@@ -49,20 +25,19 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="images/home/laptop-paper.jpg"
+  link="publications"
+  title="Our Publications"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We design, develop, and validate tools that are used by thousands of breeders across diverse plant species. All of our software, tools, and datasets are freely available and openly licensed.
 
 {%
   include link.html
-  link="tools"
-  text="Browse our tools"
+  link="projects"
+  text="Browse our projects"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -71,15 +46,15 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
+  image="images/uav-wheat.jpg"
+  link="projects"
+  title="Our Projects"
   flip=true
   text=text
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a growing team of enthusiastic researchers that are designing the future of data in plant breeding and genetics. We aim to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
 
 {%
   include link.html
@@ -93,11 +68,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team/chip.jpg"
   link="team"
   title="Our Team"
   text=text
 %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
