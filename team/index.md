@@ -7,6 +7,8 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
+Our lab is made up of a highly engaged and collaborative team of researchers. We recognize that diverse teams do better research. We foster an environment where team members are treated equally and where we respect and admire our differences.
+
 {% include section.html %}
 
 {%
@@ -50,7 +52,6 @@ nav:
 {% include section.html dark=true %}
 
 We work with a wide range of outstanding groups from around the world, and we're always on the lookout for new and unique perspectives.
-We want to push the frontier of data science and train the next generation of data scientists.
 
 {%
   include link.html
@@ -62,24 +63,3 @@ We want to push the frontier of data science and train the next generation of da
 {:.center}
 
 {% include section.html %}
-
-## Funding
-
-Our work is made possible by funding from several organizations.
-{:.center}
-
-{%
-  include gallery.html
-
-  image1="images/funding/usaid.svg"
-  link1="https://www.usaid.gov/"
-  tooltip1="US Agency for International Development"
-
-  image2="images/funding/nifa.png"
-  link2="https://nasa.gov/"
-  tooltip2="USDA National Institute of Food and Agriculture"
-
-  image3="images/funding/nsf.png"
-  link3="https://nsf.gov/"
-  tooltip3="National Science Foundation"
-%}
