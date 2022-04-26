@@ -68,7 +68,7 @@ We are a growing team of enthusiastic researchers that are designing the future 
 
 {%
   include feature.html
-  image="images/team/chip-team.jpg"
+  image="images/home/chip-team.jpg"
   link="team"
   title="Our Team"
   text=text
