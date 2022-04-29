@@ -68,4 +68,4 @@ Our programming team is responsible for most of the code that goes into our apps
 
 ### Postdoctoral Associates
 
-We regularly have research opportunities for postdoctoral level scientists who have experience in plant genetics and computer science. Available opportunities will be posted on [this site]({{ site.baseurl }}/news). To be considered, send [Trevor]({{ site.baseurl }}/contact) a cover letter, curriculum vitae, statement of research interests, and contact information for three references.
+We regularly have research opportunities for postdoctoral level scientists who have experience in plant genetics and computer science. Available opportunities will be posted on [here]({{ site.baseurl }}/news). To be considered, send [Trevor]({{ site.baseurl }}/contact) a cover letter, curriculum vitae, statement of research interests, and contact information for three references.
