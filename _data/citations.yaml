@@ -259,3 +259,73 @@
   tags:
   - phenoapps
   - plant breeding
+- id: doi:10.1093/g3journal/jkac078
+  title: 'Breedbase: a digital ecosystem for modern plant breeding'
+  authors:
+  - Nicolas Morales
+  - Alex C Ogbonna
+  - Bryan J Ellerbrock
+  - Guillaume J Bauchet
+  - Titima Tantikanjana
+  - Isaak Y Tecle
+  - Adrian F Powell
+  - David Lyon
+  - Naama Menda
+  - Christiano C Simoes
+  - Surya Saha
+  - Prashant Hosmani
+  - Mirella Flores
+  - Naftali Panitz
+  - Ryan S Preble
+  - Afolabi Agbona
+  - Ismail Rabbi
+  - Peter Kulakow
+  - Prasad Peteti
+  - Robert Kawuki
+  - Williams Esuma
+  - Micheal Kanaabi
+  - Doreen M Chelangat
+  - Ezenwanyi Uba
+  - Adeyemi Olojede
+  - Joseph Onyeka
+  - Trushar Shah
+  - Margaret Karanja
+  - Chiedozie Egesi
+  - Hale Tufan
+  - Agre Paterne
+  - Asrat Asfaw
+  - Jean-Luc Jannink
+  - Marnin Wolfe
+  - Clay L Birkett
+  - David J Waring
+  - Jenna M Hershberger
+  - Michael A Gore
+  - Kelly R Robbins
+  - Trevor Rife
+  - Chaney Courtney
+  - Jesse Poland
+  - Elizabeth Arnaud
+  - "Marie-Ang\xE9lique Laporte"
+  - Heneriko Kulembeka
+  - Kasele Salum
+  - Emmanuel Mrema
+  - Allan Brown
+  - Stanley Bayo
+  - Brigitte Uwimana
+  - Violet Akech
+  - Craig Yencho
+  - Bert de Boeck
+  - Hugo Campos
+  - Rony Swennen
+  - Jeremy D Edwards
+  - Lukas A Mueller
+  publisher: G3 Genes|Genomes|Genetics
+  date: '2022-04-06'
+  link: https://doi.org/gpzmnf
+  image: images/publications/morales2019.png
+  extra-links:
+  - type: source
+    link: https://github.com/solgenomics/sgn/
+    text: Source
+  tags:
+  - database
