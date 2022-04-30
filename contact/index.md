@@ -38,16 +38,8 @@ Clemson Pee Dee Research & Education Center
 Florence, SC  29506
 {:.center}
 
-{% capture col1 %}
 {%
-  include figure.html
-  image="images/contact/pdr-office.jpg"
+  include gallery.html
+  image1="images/contact/pdr-office.jpg"
+  image2="images/contact/pdr-overhead.jpg"
 %}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/contact/pdr-overhead.jpg"
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
