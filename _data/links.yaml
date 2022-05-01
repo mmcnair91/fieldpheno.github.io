@@ -14,7 +14,7 @@ external:
 
 home-page:
   icon: fas fa-home
-  text: Home Page
+  text: Home
   tooltip: Home page
   link: $LINK
 
@@ -26,7 +26,7 @@ email:
 
 phone:
   icon: fas fa-phone
-  text: Phone Number
+  text: Phone
   tooltip: Phone number
   link: tel:$LINK
 
@@ -57,8 +57,8 @@ orcid:
   link: https://orcid.org/$LINK
 
 google-scholar:
-  icon: fab fa-graduation-cap
-  text: Google Scholar
+  icon: fas fa-graduation-cap
+  text: Scholar
   tooltip: Google Scholar
   link: https://scholar.google.com/citations?hl=en&user=$LINK
 
