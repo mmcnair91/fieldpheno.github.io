@@ -34,8 +34,7 @@ Our lab is part of the [Department of Plant and Environmental Sciences](https://
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
 Clemson Pee Dee Research & Education Center
-2200 Pocket Rd.
-Florence, SC  29506
+2200 Pocket Rd. Florence, SC  29506
 {:.center}
 
 {%
