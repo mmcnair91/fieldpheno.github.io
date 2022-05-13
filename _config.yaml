@@ -4,6 +4,7 @@
 title: Rife Lab
 description: Research lab at Clemson University developing new tools for plant breeding.
 logo: images/logo.svg
+logo-text: false
 header: images/backgrounds/background-header.jpg
 footer: images/backgrounds/background-footer.jpg
 baseurl:
