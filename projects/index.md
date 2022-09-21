@@ -36,7 +36,7 @@ Our work is made possible by funding from several organizations.
   tooltip1="US Agency for International Development"
 
   image2="images/funding/nifa.png"
-  link2="https://nasa.gov/"
+  link2="https://www.nifa.usda.gov/"
   tooltip2="USDA National Institute of Food and Agriculture"
 
   image3="images/funding/nsf.png"
