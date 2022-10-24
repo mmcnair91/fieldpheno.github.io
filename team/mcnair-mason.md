@@ -23,7 +23,7 @@ Research Goals:
 
 -Use living collections (botanical gardens & arboreta), dried collections (herbaria), and breeding populations to provide answers for complex taxonomic questions
   
-Plant Systems I have worked with:
+Plant Systems I work with:
 
 -Cercis (Redbud)
 
