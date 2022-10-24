@@ -3,7 +3,6 @@ name: Mason McNair
 image: images/team/mason-mcnair.jpg
 role: postdoc
 group: current
-description: 3D Design, Phenomics, Outreach
 aliases:
   - M. McNair
   - M.C. McNair
