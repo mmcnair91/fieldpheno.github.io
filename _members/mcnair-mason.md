@@ -1,9 +1,9 @@
 ---
 name: Mason McNair
 image: images/team/mason-mcnair.jpg
-role: Post Doctoral Fellow
+role: postdoc
 group: current
-description: 3D Design, Printing, and Outreach
+description: 3D Design, Phenomics, Outreach
 aliases:
   - M. McNair
   - M.C. McNair
@@ -15,14 +15,14 @@ links:
   twitter: SarraceniaMason
 ---
 
-Research Goals: 
+Research Goals:
 
 -Enable affordable scientific research for underfunded labs, citizen scientists, and underserved communities by creating simple, 3D printable designs
 
 -Develop robust pipelines for plant taxonomic delimitation, minimizing impact on natural populations and maximizing data utility for conservation
 
 -Use living collections (botanical gardens & arboreta), dried collections (herbaria), and breeding populations to provide answers for complex taxonomic questions
-  
+
 Plant Systems I work with:
 
 -Cercis (Redbud)
