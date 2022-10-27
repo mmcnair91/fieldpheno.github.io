@@ -1,0 +1,8 @@
+- id: 10.55360/cpn414.mm785
+  image: https://upload.wikimedia.org/wikipedia/commons/8/84/Drosera_capensis_leaf_Darwiniana.jpg
+  extra-links:
+    - type: pdf
+      link: https://cpn.carnivorousplants.org/articles/CPNv41n4p140_142.pdf
+  tags:
+    - Drosera capensis
+    - Propagation
